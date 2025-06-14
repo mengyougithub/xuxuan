@@ -27,7 +27,6 @@ redirect_from:
 - 文本分类
 - 主题模型
 - 股价预测
-- 多模态模型
 - deepfake
   
 <span class='anchor' id='-xl'></span>
