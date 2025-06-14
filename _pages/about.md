@@ -32,7 +32,7 @@ redirect_from:
   
 
 
-<span class='anchor' id='-xl'></span>
+<!-- <span class='anchor' id='-xl'></span> -->
 
 # 🎓 学历
 <!-- - *2016.06 - 2022.12*, <a href="https://www.hust.edu.cn/"><img class="svg" src="/images/HUST_logo.svg" width="23pt"></a> 华中科技大学 机械科学与工程学院, 湖北武汉, 推免直博 
@@ -44,9 +44,8 @@ redirect_from:
 
 - 2018.9-2022.6	南京邮电大学  电磁场与无线技术 | 本科
 
--   
 
-<span class='anchor' id='-lwzl'></span>
+<!-- <span class='anchor' id='-lwzl'></span> -->
 
 # 📝 论文及专利
 
@@ -131,7 +130,7 @@ redirect_from:
 - *2019.09*, 第十九届国际应用电磁学与力学会议 (ISEM 2019), 江苏南京, 海报
 - *2017.10*, 第六届中国国际管道会议 (CIPC 2017), 河北廊坊 -->
 
-<span class='anchor' id='-gzsx'></span>
+<!-- <span class='anchor' id='-gzsx'></span> -->
 
 # 💻 工作实习
 <!-- - *2018.05 - 2020.02*, 重庆长江轴承股份有限公司, 重庆
